@@ -1,0 +1,6 @@
+[
+	{"BUName":"Active_BU Name1", "dealType":"Product1","dealArch":"Full Integration1","stage":"Opportunity Evalution1"},
+	{"BUName":"Active_BU Name2", "dealType":"Product2","dealArch":"Full Integration2","stage":"Opportunity Evalution2"},
+	{"BUName":"Active_BU Name3", "dealType":"Product2","dealArch":"Full Integration2","stage":"Opportunity Evalution3"},
+	{"BUName":"Active_BU Name4", "dealType":"Product4","dealArch":"Full Integration4","stage":"Opportunity Evalution4"}
+]
