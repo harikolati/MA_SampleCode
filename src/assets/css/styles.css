@@ -76,3 +76,11 @@ ul, ol {
 .side_nav {
    margin-left: 15px;
 }
+
+.cisco_icon_style {
+  font-size: 45px;
+  text-align: center;
+  margin-left: 75px;
+  color: #049FD9 !important;
+  margin-top: 8px;
+}
