@@ -1,8 +1,8 @@
 export interface Deal {
     
-    BUName: string,    
+    targetCompanyName: string,    
     dealType: string,    
-    dealArch: string
-    stage:string
+    marketSegment: string,
+    transactionStage:string
     
     }
