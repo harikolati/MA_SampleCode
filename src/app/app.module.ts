@@ -20,6 +20,7 @@ import { DealService } from './deal.service';
 import { FollowedDealService } from './followed-deal.service';
 import { InactiveDealService } from './inactive-deal.service';
 import { HttpClientModule } from '@angular/common/http';
+import { HeadlineComponent } from './headline/headline.component';
 
 const appRoutes: Routes = [
   
@@ -38,7 +39,7 @@ const appRoutes: Routes = [
 @NgModule({
   declarations: [
     AppComponent,
-    SearchboxComponent, HeaderComponent, FooterComponent, MyDealsComponent, AllDealsComponent, MethodologyComponent, LearninganddevelopmentComponent, InitiativesComponent, QuickToolsComponent, AllToolsComponent
+    SearchboxComponent, HeaderComponent, FooterComponent, MyDealsComponent, AllDealsComponent, MethodologyComponent, LearninganddevelopmentComponent, InitiativesComponent, QuickToolsComponent, AllToolsComponent, HeadlineComponent
   ],
   imports: [
     BrowserModule,
