@@ -1,3 +1,4 @@
+
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
@@ -37,7 +38,9 @@ import {NgxPaginationModule} from 'ngx-pagination';
 import { AnnouncementComponent } from './platform/components/announcement/announcement.component';
 import { Configuration } from '../App.Config';
 
-
+/**
+ * declarations of components
+ */
 @NgModule({
   declarations: [
     AppComponent,
